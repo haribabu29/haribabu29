@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... Java, Javascritp, AEM
+- 🌱 I’m currently learning ... ReactJS
+
 <!--
 **haribabu29/haribabu29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
